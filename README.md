@@ -7,19 +7,19 @@
  |Sections|
  o--------o
  
- [1]  Installation
- [2]  Introduction
- [3]  General List of Changes
- [4]  Patch Differences
- [5]  Pokémon Changes
- [6]  Type Changes
- [7]  Move Changes
- [8]  Stat Experience, Vitamins and Fruits
- [9]  Mechanic & Gameplay Changes
- [10] New Kurt Balls, new ways to obtain Apricorns
- [11] The New and Improved Battle Tower and Trainer House
- [12] Visual Changes 
- [13] Credits 
+ [1]  Installation<br>
+ [2]  Introduction<br>
+ [3]  General List of Changes<br>
+ [4]  Patch Differences<br>
+ [5]  Pokémon Changes<br>
+ [6]  Type Changes<br>
+ [7]  Move Changes<br>
+ [8]  Stat Experience, Vitamins and Fruits<br>
+ [9]  Mechanic & Gameplay Changes<br>
+ [10] New Kurt Balls, new ways to obtain Apricorns<br>
+ [11] The New and Improved Battle Tower and Trainer House<br>
+ [12] Visual Changes<br>
+ [13] Credits<br>
  
 o-----------------o
 |[1]  Installation|
